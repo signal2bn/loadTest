@@ -8,3 +8,8 @@ $ npm install
 
 * Run  
 $ npm start 
+
+* stop  
+$ pm2 kill
+
+
