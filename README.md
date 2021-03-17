@@ -9,7 +9,7 @@ $ npm install
 * Run  
 $ npm start 
 
-* stop  
+* Stop  
 $ pm2 kill
 
 
